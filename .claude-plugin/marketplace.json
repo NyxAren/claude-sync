@@ -3,7 +3,7 @@
   "name": "claude-sync",
   "description": "A marketplace for claude-sync plugin",
   "owner": {
-    "name": "chenyii1120",
+    "name": "NyxAren",
     "email": "chenyii1120@gmail.com"
   },
   "plugins": [
@@ -12,7 +12,7 @@
       "description": "Sync your Claude Code settings, plugins, and commands across machines using any git remote",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/chenyii1120/claude-sync"
+      "homepage": "https://github.com/NyxAren/claude-sync"
     }
   ]
 }
