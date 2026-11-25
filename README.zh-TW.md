@@ -2,7 +2,7 @@
 
 [English](./README.md)
 
-> **Early Preview** — 此插件正在積極開發中，功能可能會變動，使用過程中可能遇到問題。歡迎透過 [GitHub Issues](https://github.com/chenyii1120/claude-sync/issues) 回報 bug 或提供建議。
+> **Early Preview** — 此插件正在積極開發中，功能可能會變動，使用過程中可能遇到問題。歡迎透過 [GitHub Issues](https://github.com/NyxAren/claude-sync/issues) 回報 bug 或提供建議。
 
 透過任意 git remote 在多台機器之間同步你的 Claude Code 設定、插件和自訂指令。
 
@@ -14,7 +14,7 @@
 
 ```bash
 # 1. 添加 marketplace
-claude plugin marketplace add chenyii1120/claude-sync
+claude plugin marketplace add NyxAren/claude-sync
 
 # 2. 安裝插件
 claude plugin install claude-sync
